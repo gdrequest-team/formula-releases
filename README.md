@@ -1,5 +1,5 @@
 # Formula
-The req.gd level request system
+A better way to take level requests, powered by the team behind req.gd
 
 ## Information
 This is the official mod of the Formula request system, a project aimed to making level requests as streamlined as possible.
